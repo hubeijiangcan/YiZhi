@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#03a9f4</color>
+    <color name="colorPrimaryDark">#03a9f4</color>
+    <!--<color name="colorPrimaryDark">#0288d1</color>-->
+    <color name="colorAccent">#03a9f4</color>
+
+    <!-- drop down menu -->
+    <color name="white">#ffffff</color>
+    <color name="gray">#cccccc</color>
+
+    <!-- 主体文字,标题/标签 -->
+    <color name="txt_black">#212121</color>
+</resources>
